@@ -7,7 +7,7 @@ Antes de continuarmos, é importante lembrar que um soquete de rede é um ponto 
 
 ### Vamos abrir o editor de texto "nano" no terminal:
 
-$ nano servidor.py
+nano servidor.py
 
 ### Agora escreva o seguinte código para o servidor:
 
@@ -25,7 +25,7 @@ Por fim, temos os métodos socket.accept() e socket.close(), que são usados par
 
 ### Vamos para o programa de soquete do lado do cliente. Abra o editor de texto no terminal:
 
-$ nano cliente.py
+nano cliente.py
 
 ### Insira o seguinte código:
 
@@ -43,7 +43,7 @@ E para finalizar, o método socket.close() é utilizado para encerrar o cliente.
 
 ### Execute primeiramente o código do Socket servidor:
 
-$ python3 servidor.py
+python3 servidor.py
 
 ### A saída será:
 
@@ -51,14 +51,14 @@ socket esta na escuta
 
 ### Deixe o código do servidor em execução na janela do terminal. Abra uma nova janela de terminal, e execute agora o cliente:
 
-$ python3 cliente.py
+python3 cliente.py
 
 Conexao Estabelecida
 ### >> REALIZAR A CAPTURA DE TELA DO RESULTADO OBTIDO NO PASSO A SEGUIR
 
 Se ainda não o fez, configure o prompt no formato requerido para a entrega da atividade (troque "meunome" pelo seu próprio nome e sobrenome):
 
-$ export PS1="$(echo "\d \t $PS1"|sed -e 's/\\u/fabriciamendesmartins/g')"
+export PS1="$(echo "\d \t $PS1"|sed -e 's/\\u/FabriciaMM/g')"
 
 Volte para a janela de terminal do servidor e faça a captura de tela da saída na tela.
 
