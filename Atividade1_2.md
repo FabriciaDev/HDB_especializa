@@ -23,7 +23,7 @@ Portas dinâmicas ou privadas: todas acima de 49151
 
 ### Vamos abrir o editor de texto "nano" no terminal:
 
-$ nano atividade2.py
+nano atividade2.py
 
 ### Digite o script em Python a seguir dentro do arquivo de texto:
 
@@ -46,11 +46,11 @@ Configuramos esta máquina para ajudar as pessoas a aprender sobre o Nmap e tamb
 Se ainda não o fez, configure o prompt no formato requerido para a entrega da atividade (troque "meunome" pelo seu próprio nome e sobrenome):
 
 
-$ export PS1="$(echo "\d \t $PS1"|sed -e 's/\\u/meunome/g')"
+export PS1="$(echo "\d \t $PS1"|sed -e 's/\u/FabriciaMM/g')"
 
 ### Execute o programa criado:
 
-$ python3 atividade2.py
+python3 atividade2.py
 
 ### O resultado mostrará que, no intervalo de 70 a 81 (conforme especificado no script), esse scanner de porta encontrou uma porta - a 80 - aberta. Faça a captura de tela desse resultado.
 
