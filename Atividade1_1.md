@@ -58,7 +58,7 @@ Conexao Estabelecida
 
 Se ainda não o fez, configure o prompt no formato requerido para a entrega da atividade (troque "meunome" pelo seu próprio nome e sobrenome):
 
-Copy
-$ export PS1="$(echo "\d \t $PS1"|sed -e 's/\\u/meunome/g')"
+$ export PS1="$(echo "\d \t $PS1"|sed -e 's/\\u/fabriciamendesmartins/g')"
+
 Volte para a janela de terminal do servidor e faça a captura de tela da saída na tela.
 
