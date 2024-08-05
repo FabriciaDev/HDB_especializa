@@ -95,9 +95,25 @@ Se quiser monitorar todos os objetos em um diretório, selecione o diretório, j
 <img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk7.PNG">
 </p>
 
-Você pode, opcionalmente, definir parâmetros de entrada adicionais para esta entrada de dados. Em "App context" , selecione "Search & Reporting". Em seguida, clique em "Review". Após a revisão, clique em "Submit".
+### Você pode, opcionalmente, definir parâmetros de entrada adicionais para esta entrada de dados. Em "App context" , selecione "Search & Reporting". Em seguida, clique em "Review". Após a revisão, clique em "Submit".
 
+<p>
+<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk7.PNG">
+</p>
 
+### Agora sua . Clique em "Start Searching" para pesquisar seus dados.
+
+<p>
+<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk8.PNG">
+</p>
+
+### >> REALIZAR A CAPTURA DE TELA DO RESULTADO OBTIDO NO PASSO A SEGUIR
+
+Você verá a tela de busca "New Search".
+
+<p>
+<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk9.PNG">
+</p>
 
 
 
