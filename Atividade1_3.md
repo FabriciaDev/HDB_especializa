@@ -46,12 +46,15 @@ python3 /opt/FinalRecon/finalrecon.py --sslinfo https://www.google.com
 Verificar cabeçalhos:
 
 python3 /opt/FinalRecon/finalrecon.py --headers https://www.google.com
+
 Verificar as informações do whois:
 
 python3 /opt/FinalRecon/finalrecon.py --whois  https://www.google.com
+
 Alvo de rastreamento:
 
 python3 /opt/FinalRecon/finalrecon.py --crawl https://www.google.com
+
 Verificação completa:
 
 python3 /opt/FinalRecon/finalrecon.py --full https://www.google.com
