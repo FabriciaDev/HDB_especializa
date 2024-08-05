@@ -50,6 +50,8 @@ Username: admin
 Password: splunk123
 
 <p>
-<img width="300" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk1.PNG">
+<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk1.PNG">
 </p>
+
+
 
