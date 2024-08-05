@@ -37,6 +37,7 @@ Se ainda não o fez, configure o prompt no formato requerido para a entrega da a
 
 
 $ export PS1="$(echo "\d \t $PS1"|sed -e 's/\\u/meunome/g')"
+
 Verifique o certificado SSL. Substitua o endereço https://www.dominio.com por um site bem conhecido, por exemplo, Google ou Cloudflare. ### Faça a captura de tela do comando digitado contendo a respectiva saída na tela.
 
 $ python3 /opt/FinalRecon/finalrecon.py --sslinfo https://www.dominio.com
