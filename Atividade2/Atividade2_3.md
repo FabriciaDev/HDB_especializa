@@ -50,12 +50,18 @@ Trigger Actions: Marque a opção Add to Triggered Alerts, com a severidade Medi
 
 Os campos nesta seção são autoexplicativos, mas observe que podemos usar tokens no assunto e no corpo do e-mail para adicionar especificidade ao alerta. Por exemplo, os campos de assunto e corpo são pré-preenchidos com texto que usa o token $name$, que será substituído pelo nome da pesquisa quando o alerta for enviado.
 
-Depois de salvar o alerta, você verá a tela de alterações nas permissões clicando em "Permissions". Pode deixar marcado a opção Owner, e clicar em "Save".
+### Depois de salvar o alerta, você verá a tela de alterações nas permissões clicando em "Permissions". Pode deixar marcado a opção Owner, e clicar em "Save".
+
+<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk13.PNG">
+
 ### Volte ao terminal, e digite o comando para criar um novo usuário, com senha 123.
 
 $ sudo adduser exemplo2
 
-## Os dados pessoais como nome e telefone podem ser deixados em branco, basta apertar a tecla "Enter".
+### Os dados pessoais como nome e telefone podem ser deixados em branco, basta apertar a tecla "Enter".
+
+<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk14.PNG">
+
 
 ## >> REALIZAR A CAPTURA DE TELA DO RESULTADO OBTIDO NO PASSO A SEGUIR
 
