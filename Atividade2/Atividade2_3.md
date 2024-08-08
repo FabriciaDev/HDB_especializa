@@ -17,7 +17,7 @@ Vamos criar um alerta enviar uma notificação cada vez que o comando adduser fo
 ### Será apresentada a tela onde você poderá inserir detalhes adicionais.
 
 <p>
-<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk12.PNG">
+<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunkD.PNG">
 </p>
 
 Title: Uso do adduser.
@@ -52,7 +52,7 @@ Os campos nesta seção são autoexplicativos, mas observe que podemos usar toke
 
 ### Depois de salvar o alerta, você verá a tela de alterações nas permissões clicando em "Permissions". Pode deixar marcado a opção Owner, e clicar em "Save".
 
-<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk13.PNG">
+<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk12.PNG">
 
 ### Volte ao terminal, e digite o comando para criar um novo usuário, com senha 123.
 
@@ -60,7 +60,7 @@ $ sudo adduser exemplo2
 
 ### Os dados pessoais como nome e telefone podem ser deixados em branco, basta apertar a tecla "Enter".
 
-<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk14.PNG">
+<img width="500" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade2/splunk13.PNG">
 
 
 ## >> REALIZAR A CAPTURA DE TELA DO RESULTADO OBTIDO NO PASSO A SEGUIR
