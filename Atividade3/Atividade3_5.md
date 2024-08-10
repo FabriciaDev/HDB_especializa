@@ -1,4 +1,4 @@
-Atividade 3.5 - Caso de uso do dia a dia
+# Atividade 3.5 - Caso de uso do dia a dia
 Você irá executar essa atividade na VM forenseLinux. Após logar e acessar a máquina landing, abra o RDP (Conexão de Área de Trabalho Remota), e digite o endereço IP: 192.168.98.10.
 
 Suponha que um usuário recebeu um e-mail com um link malicioso, supostamente relacionado ao pagamento do bônus trimestral dos funcionários. O usuário clica no link e imediatamente faz o download de um arquivo. Queremos saber se o arquivo é malicioso e, se for, identificar as medidas que podemos tomar para impedir que outros sistemas façam o download do mesmo arquivo.
