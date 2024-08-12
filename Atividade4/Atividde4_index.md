@@ -1,4 +1,4 @@
-Atividade Prática - Tratamento de Incidentes - Rede e Aplicativo Web
+# Atividade Prática - Tratamento de Incidentes - Rede e Aplicativo Web
 O Monitoramento de Segurança de Rede (NSM - Network Security Monitoring) é o processo de observar e analisar a sua rede em busca de eventos de segurança. Esse monitoramento pode ser feito de maneira proativa, como por exemplo ao identificar vulnerabilidades ou certificados SSL vencidos, ou de maneira reativa, como na resposta a incidentes e na análise forense de rede. Seja para acompanhar as atividades de um invasor ou para manter o malware sob controle, o NSM te dá contexto, inteligência e consciência da situação em sua rede.
 
 O Monitoramento de Segurança Empresarial (ESM - Enterprise Security Monitoring) é um passo adiante do NSM, incluindo a visibilidade do endpoint e outros dados telemétricos de sua organização.
