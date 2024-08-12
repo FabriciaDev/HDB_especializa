@@ -3,3 +3,6 @@ O CyberChef é projetado para criptografia, análise e manipulação de dados. A
 
 Desenvolvido pela Sede de Comunicações do Governo (GCHQ) no Reino Unido, o CyberChef é um aplicativo da web também chamado de “Cyber Swiss Army Knife” (em tradução livre, "Canivete cibernético suíço").
 
+<p>
+<img width="800" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade4/cyberchef1.PNG">
+</p>
