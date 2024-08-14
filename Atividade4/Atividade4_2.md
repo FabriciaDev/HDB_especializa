@@ -71,3 +71,24 @@ Word Delimiter: Line Feed
 <img width="800" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade4/cyberchef8.PNG">
 </p>
 
+### >> REALIZAR A CAPTURA DE TELA DO RESULTADO OBTIDO NO PASSO A SEGUIR
+
+## Quinta Etapa: Converter Hexadecimal para Texto
+
+O resultado da decodificação de Morse é uma string de valores hexadecimais. Usando as operações "Drop Bytes" com comprimento 2 e "From Hex" no CyberChef, a string hexadecimal é convertida para texto legível, revelando a mensagem final.
+
+### Continue a execução do ponto onde você parou na quarta etapa. Digite "Drop Bytes" (sem as aspas) na caixa de pesquisa e adicione esta operação. Configure a operação "Drop Bytes" da seguinte maneira:
+
+    Start: 0
+
+    Length: 2
+
+### Agora, digite "From Hex" (sem as aspas) na caixa de pesquisa e adicione esta operação. Configure a operação "From Hex" da seguinte maneira:
+
+    Delimiter: Auto
+
+### A mensagem final obtida após todos os passos no CyberChef é a seguinte:
+
+Wp*lXtGQ8e8qnmMYU*svFHkjIt*RQ&JpZvjm!%%KDkfp#^N9fk4dU4lB3rToT0PZQmCQEKYB4ZMv*!Fk8l%bjqlPMfIGma%%FzG gigem{C1icK_cl1CK-y0u_h4v3_m4I1} uv4vzKZt4yomiDShLm8QEFnUtwJ@NuOYfX&8u@Gn!1%Tqv0VcRzV!j!vuup8BjdNIqE5w#$%V4UZOYZ2z7T25t7&xL@WO7410QI
+
+###Realize a captura da tela que mostra o resultado obtido.
