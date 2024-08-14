@@ -54,6 +54,20 @@ Replace: -
 (Marcar as caixas "Global match" e "Multiline matching").
 
 <p>
-<img width="800" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade4/cyberchef6.PNG">
+<img width="800" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade4/cyberchef7.PNG">
+</p>
+
+Quarta Etapa: Decodificar o código Morse
+
+O CyberChef possui uma operação de decodificação de Morse, que é usada para traduzir o código Morse em texto legível. O resultado é uma sequência de valores hexadecimais.
+
+Continue a execução do ponto onde você parou na terceira etapa. Digite "From Morse Code" (sem as aspas) na caixa de pesquisa e adicione esta operação. Configure a operação "From Morse Code" da seguinte maneira:
+
+Letter Delimiter: Space
+
+Word Delimiter: Line Feed
+
+<p>
+<img width="800" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade4/cyberchef8.PNG">
 </p>
 
