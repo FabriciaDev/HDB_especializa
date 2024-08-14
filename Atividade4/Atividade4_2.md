@@ -21,3 +21,39 @@ Replace:
 
 (Marcar as caixas "Global match" e "Multiline matching").
 
+<p>
+<img width="800" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade4/cyberchef5.PNG">
+</p>
+
+Segunda Etapa: Substituir 'di' e 'dit' por pontos
+
+Continue a execução do ponto onde você parou na primeira etapa. Digite novamente "Find / Replace" (sem as aspas) na caixa de pesquisa e adicione esta operação. Configure a operação "Find / Replace" da seguinte maneira:
+
+Find: (dit?)
+
+Tipo do "Find": REGEX
+
+Replace: .
+
+(Marcar as caixas "Global match" e "Multiline matching").
+
+<p>
+<img width="800" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade4/cyberchef6.PNG">
+</p>
+
+Terceira Etapa: Substituir 'dah' por traços
+
+Continue a execução do ponto onde você parou na segunda etapa. Digite novamente "Find / Replace" (sem as aspas) na caixa de pesquisa e adicione esta operação. Configure a operação "Find / Replace" da seguinte maneira:
+
+Find: dah
+
+Tipo do "Find": REGEX
+
+Replace: -
+
+(Marcar as caixas "Global match" e "Multiline matching").
+
+<p>
+<img width="800" src="https://github.com/FabriciaDev/HDB_especializa/blob/main/Atividade4/cyberchef6.PNG">
+</p>
+
